@@ -7,7 +7,7 @@ One of the things I admire about proffesionals in this area is that YOU NEVER ST
 I enjoy applying human-centered design and design thinking principles to create innovative solutions and business models geared towards growth. If you think I can be of any use to you or your company let me know, let´s connect and create some magic together🐱‍🏍  
  
 I looove selling others, I hate selling myself. So there it is. Have a nice day! 🎈  
-
+  
 🤙🏼Languages I know: Spanish, English, Russian, Portuguese 
 
 🌎Countries I traveled: Paraguay, Brazil, Canada, Kyrgyzstan, Kazakhstan, Russia, Turkey, Italy, France, Spain, Netherlands, Monaco, Croatia, Portugal, Switzerland, Chile.   
