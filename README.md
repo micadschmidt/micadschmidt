@@ -13,3 +13,4 @@ I looove selling others, I hate selling myself. So there it is. Have a nice day!
 🌎Countries I traveled: Paraguay, Brazil, Canada, Kyrgyzstan, Kazakhstan, Russia, Turkey, Italy, France, Spain, Netherlands, Monaco, Croatia, Portugal, Switzerland.
  
  
+ 
