@@ -1,5 +1,5 @@
 👩🏼Micaela's Profile    
-     
+      
 Hi there! 👋🏼 I am a Developer🚀                                    
 💻I am passionate about technology and how it can improve our ability to reach better humanity, altough ironic I think is possible. At the moment I am skilled as a Full Stack Developer, in frontend and backend languages such as HTML, CSS, JavaScript, Vue, Liquid, React, AJAX, Ruby on Rails and SQL.                          
 One of the things I admire about proffesionals in this area is that YOU NEVER STOP LEARNING and that is exciting in deed.                  
