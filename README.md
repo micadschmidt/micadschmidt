@@ -2,7 +2,7 @@
          
 💻 Technical Skills       
 ✔︎ Backend: Ruby on Rails, SQL (MySQL / PostgreSQL)                  
-✔︎ Frontend: Vue.js, JavaScript, React, Liquid, HTML, CSS, Responsive UI  
+✔︎ Frontend: Vue.js, JavaScript, React, Liquid, HTML, CSS, SCSS, Responsive UI  
 ✔︎ Other: Docker, API design, debugging, testing, performance optimization  
 
 🏗️ What I Focus On
