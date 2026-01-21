@@ -14,7 +14,7 @@
 
 🌍 Languages
 Spanish 🇦🇷 | English 🇺🇸 | Russian 🇷🇺 | Portuguese 🇧🇷
-
+ 
 📩 Let’s connect — you can reach me at:
 micaelaschmidt47@gmail.com 
  
