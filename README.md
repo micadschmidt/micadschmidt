@@ -7,13 +7,9 @@
 ✔︎ Other: Docker, API design, debugging, testing, performance optimization     
 
 🏗️ What I Focus On
-
 ✔︎ Clean architecture and maintainable code
-
 ✔︎ High-quality standards and automated testing
-
 ✔︎ Scalable, reliable, and well-documented systems
-
 ✔︎ Cross-functional collaboration in remote environments
 
 🌍 Languages
