@@ -5,7 +5,7 @@
 ✔︎ Frontend: Vue.js, JavaScript, React, Stimulus, Liquid, HTML, CSS, SCSS, Responsive UI   
 ✔︎ Data & Infrastructure: Redis, Elasticsearch
 ✔︎ Other: Docker, API design, debugging, testing, performance optimization      
-
+ 
 🏗️ What I Focus On
 
 ✔︎ Clean architecture and maintainable code 
