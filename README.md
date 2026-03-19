@@ -3,7 +3,7 @@
 💻 Technical Skills                     
 ✔︎ Backend: Ruby on Rails, SQL (MySQL / PostgreSQL)                           
 ✔︎ Frontend: Vue.js, JavaScript, React, Stimulus, Liquid, HTML, CSS, SCSS, Responsive UI   
-✔︎ Data & Infrastructure: Redis, Elasticsearch 
+✔︎ Data & Infrastructure: Redis, Elasticsearch  
  
 ✔︎ Other: Docker, API design, debugging, testing, performance optimization       
  
