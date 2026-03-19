@@ -1,7 +1,7 @@
 🚀 Full-stack Ruby on Rails developer with experience building ecommerce and scalable web applications, focused on performance, usability, and real product impact.                  
            
 💻 Technical Skills                     
-✔︎ Backend: Ruby on Rails, SQL (MySQL / PostgreSQL)                         
+✔︎ Backend: Ruby on Rails, SQL (MySQL / PostgreSQL)                          
 ✔︎ Frontend: Vue.js, JavaScript, React, Stimulus, Liquid, HTML, CSS, SCSS, Responsive UI   
 ✔︎ Data & Infrastructure: Redis, Elasticsearch 
  
